@@ -8,5 +8,5 @@ let b = a*x
 console.log(b);
 let c = b/x;
 console.log(c);
-c = 98
-console.log(c);
+let d = 98;
+console.log(d);
